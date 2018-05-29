@@ -1,3 +1,7 @@
 *.xml
 *.len
+*.iml
+metadata
+metadata.keystream
+metadata_i
 config.py
